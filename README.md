@@ -5,10 +5,6 @@ be collocated with all other BOSH releases deployed by BOSH.
 
 AppFirst is an exteremly low overhead collection agent.
 
-## Maintainer
-
-Wayne E. Seguin <wayneeseguin@gmail.com>
-
 ## License
 
 MIT, see LICENSE file.
