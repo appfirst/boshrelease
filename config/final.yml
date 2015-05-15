@@ -2,5 +2,6 @@
 blobstore:
   provider: s3
   options:
+    endpoint: https://s3-us-west-2.amazonaws.com
     bucket_name: appfirst-collector-bosh
 final_name: appfirst
