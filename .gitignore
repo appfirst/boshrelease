@@ -20,3 +20,4 @@ my*.yml
 nodes/
 *.log
 .DS_Store
+tmp_collector_*

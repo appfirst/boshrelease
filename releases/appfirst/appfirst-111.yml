@@ -1,0 +1,20 @@
+---
+packages:
+- name: appfirst
+  version: 562e8448804b41e13f49a8d313ae36004445bcfb
+  fingerprint: 562e8448804b41e13f49a8d313ae36004445bcfb
+  sha1: 89302367849e91a7982ea65ed7edaa3a5c8e96cf
+  dependencies: []
+jobs:
+- name: appfirst
+  version: f17eb8819251671f4f2673b1bbeb444270b3f4ad
+  fingerprint: f17eb8819251671f4f2673b1bbeb444270b3f4ad
+  sha1: 80207f3d1740ca39ee96483eba1fa43d56985dd3
+license:
+  version: cde9b52a8c8e2c0d02d589dda3629b69ba19ae68
+  fingerprint: cde9b52a8c8e2c0d02d589dda3629b69ba19ae68
+  sha1: 3684f9f1ff9bcbc35a3a12f977bc00fdc18a2468
+commit_hash: 12be5789
+uncommitted_changes: true
+name: appfirst
+version: '111'
